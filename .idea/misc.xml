@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/ridho/Downloads/Compressed/WebviewSimple/app/src/main/res/drawable-v24/ic_launcher_foreground.xml" value="0.15208333333333332" />
+        <entry key="..\:/Users/ridho/Downloads/Compressed/WebviewSimple/app/src/main/res/drawable/ic_baseline_play_circle_filled_24.xml" value="0.15208333333333332" />
+        <entry key="..\:/Users/ridho/Downloads/Compressed/WebviewSimple/app/src/main/res/drawable/ic_launcher_background.xml" value="0.15208333333333332" />
+        <entry key="..\:/Users/ridho/Downloads/Compressed/WebviewSimple/app/src/main/res/drawable/splash_brand_logo.xml" value="0.1" />
+        <entry key="..\:/Users/ridho/Downloads/Compressed/WebviewSimple/app/src/main/res/layout/activity_main.xml" value="0.13333333333333333" />
+        <entry key="..\:/Users/ridho/Downloads/Compressed/WebviewSimple/app/src/main/res/layout/activity_notification.xml" value="0.1" />
+        <entry key="..\:/Users/ridho/Downloads/Compressed/WebviewSimple/app/src/main/res/layout/activity_splash.xml" value="0.264" />
+        <entry key="..\:/Users/ridho/Downloads/Compressed/WebviewSimple/app/src/main/res/layout/repeating_activity_layout.xml" value="0.25555555555555554" />
+      </map>
+    </option>
+  </component>
+  <component name="ExternalStorageConfigurationManager" enabled="true" />
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="11" project-jdk-type="JavaSDK" />
+</project>
