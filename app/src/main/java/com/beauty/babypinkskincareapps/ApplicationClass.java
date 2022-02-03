@@ -1,10 +1,10 @@
-package com.materinesia.babypinkskincareapps;
+package com.beauty.babypinkskincareapps;
 
 import android.app.Application;
 import com.onesignal.OneSignal;
 
 public class ApplicationClass extends Application {
-    private static final String ONESIGNAL_APP_ID = "ca53feec-80fe-4e90-8d3a-f31941288b3c";
+    private static final String ONESIGNAL_APP_ID = "451c0332-14cb-4e87-8abf-d9e678bcde0f";
 
     @Override
     public void onCreate() {

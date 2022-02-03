@@ -5,16 +5,16 @@ plugins {
 }
 
 android {
-    compileSdkVersion 29
-    buildToolsVersion "29.0.3"
+    compileSdkVersion 32
+    buildToolsVersion '30.0.2'
     compileOptions {
         sourceCompatibility 1.8
         targetCompatibility 1.8
     }
     defaultConfig {
-        applicationId "com.materinesia.webviewsimple"
-        minSdkVersion 24
-        targetSdkVersion 29
+        applicationId "com.beauty.babypinkskincareapps"
+        minSdkVersion 23
+        targetSdkVersion 32
         versionCode 1
         versionName "1.0"
 

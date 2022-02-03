@@ -1,4 +1,4 @@
-package com.materinesia.babypinkskincareapps;
+package com.beauty.babypinkskincareapps;
 
 import org.junit.Test;
 

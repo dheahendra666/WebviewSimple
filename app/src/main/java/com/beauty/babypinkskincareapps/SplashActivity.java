@@ -1,4 +1,4 @@
-package com.materinesia.babypinkskincareapps;
+package com.beauty.babypinkskincareapps;
 
 import androidx.appcompat.app.AppCompatActivity;
 
@@ -19,7 +19,6 @@ public class SplashActivity extends AppCompatActivity {
         getWindow().setFlags(WindowManager.LayoutParams.FLAG_FULLSCREEN,
                 WindowManager.LayoutParams.FLAG_FULLSCREEN);
         setContentView(R.layout.activity_splash);
-
 
         new Handler().postDelayed(new Runnable() {
             @Override
